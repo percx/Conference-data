@@ -4,4 +4,5 @@
 
 2) Pass-back-Attack.pdf is the original research paper discussing in detail the pass-back-attack method used trick MFP devices to send AD creds via LDAP lookup request to the attacker.
 
-3) 
+3) From-Patched-to-Pwned.pdf is a research paper that detail a firmware update attack method against Xerox Workcentra used to gain root access
+
