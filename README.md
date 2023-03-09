@@ -6,3 +6,4 @@
 
 3) From-Patched-to-Pwned.pdf is a research paper that detail a firmware update attack method against Xerox Workcentra used to gain root access
 
+4) Leveraging-inter-chip-communication-analysis.pdf is a paper that detail examining the UART based inter-chip communication between two processes for purpose of understanding end to end security with an IoT product
